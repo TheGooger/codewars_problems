@@ -13,7 +13,9 @@ def solution(string, ending):
 	else:
 		return False
 
-
+#a = 'abcde'
+#b = 'cde'
+#print(a.endswith(b))
 
 
 #a = 'abcdef'
